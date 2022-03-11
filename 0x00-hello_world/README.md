@@ -1,0 +1,1 @@
+This repository contain scripts on the basic of C Programming Language.
